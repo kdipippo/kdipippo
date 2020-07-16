@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![linkedin badge](https://img.shields.io/badge/Kathryn_DiPippo-30302f?style=flat&logo=linkedin)](https://www.linkedin.com/in/kathryn-dipippo-530815101)
+[![twitter badge](https://img.shields.io/badge/@pepper__wood-30302f?style=flat&logo=twitter)](https://twitter.com/pepper__wood)
