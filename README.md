@@ -19,3 +19,5 @@ Here are some ideas to get you started:
 [![twitter badge](https://img.shields.io/badge/@pepper__wood-30302f?style=flat&logo=twitter)](https://twitter.com/pepper__wood)
 
 [Link](https://github.com/Pepper-Wood/Pepper-Wood/blob/master/RESUME.md)
+
+<iframe width="600" height="600" src="https://ionicabizau.github.io/github-profile-languages/api.html?@Pepper-Wood" frameborder="0"></iframe>
