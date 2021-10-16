@@ -20,4 +20,6 @@ Here are some ideas to get you started:
 
 [Link](https://github.com/Pepper-Wood/Pepper-Wood/blob/master/RESUME.md)
 
-<iframe width="600" height="600" src="https://ionicabizau.github.io/github-profile-languages/api.html?@Pepper-Wood" frameborder="0"></iframe>
+| Pepper-Wood's GitHub Stats | Most Used Languages |
+| --- | --- |
+| [![Pepper-Wood's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pepper-Wood&count_private=true&show_icons=true&hide_border=true&hide_rank=true&hide_title=true)](https://github.com/Pepper-Wood/github-readme-stats) | [![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Pepper-Wood&show_icons=true&hide_border=true&langs_count=5&layout=compact&hide_title=true)](https://github.com/Pepper-Wood/github-readme-stats) |
