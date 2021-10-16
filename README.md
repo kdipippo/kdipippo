@@ -13,6 +13,7 @@
 
 
 ### 📚 Recent Blog Posts
+- `Oct 16 '21` [You don't need a personal website (and why I no longer have one)](https://dev.to/pepperwood/you-dont-need-a-personal-website-and-why-i-no-longer-have-one-3ap9)
 - `Jun .9 '21` [4 beginner-friendly Github Actions snippets](https://dev.to/pepperwood/4-beginner-friendly-github-actions-snippets-4n72)
 - `May .7 '21` [Using Slack for phone two-factor-authentication with help from Twilio](https://dev.to/pepperwood/using-slack-for-phone-two-factor-authentication-with-help-from-twilio-40eb)
 - `Sep 27 '20` [Submit Your Hacktoberfest Repos to up-for-grabs!](https://dev.to/pepperwood/submit-your-hacktoberfest-repos-to-up-for-grabs-1a3)
