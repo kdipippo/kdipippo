@@ -1,8 +1,8 @@
 ### 📈 Numbers
 
-| Pepper-Wood's GitHub Stats | Most Used Languages |
+| kdipippo's GitHub Stats | Most Used Languages |
 | --- | --- |
-| [![Pepper-Wood's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pepper-Wood&count_private=true&show_icons=true&hide_border=true&hide_rank=true&hide_title=true)](https://github.com/Pepper-Wood/github-readme-stats) | [![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Pepper-Wood&show_icons=true&hide_border=true&langs_count=5&layout=compact&hide_title=true)](https://github.com/Pepper-Wood/github-readme-stats) |
+| [![kdipippo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kdipippo&count_private=true&show_icons=true&hide_border=true&hide_rank=true&hide_title=true)](https://github.com/kdipippo/github-readme-stats) | [![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kdipippo&show_icons=true&hide_border=true&langs_count=5&layout=compact&hide_title=true)](https://github.com/kdipippo/github-readme-stats) |
 
 
 ### ⚡ Helpful Links
