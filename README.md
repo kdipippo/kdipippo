@@ -13,6 +13,7 @@
 
 
 ### 📚 Blog Posts
+- `Apr 24 '24` [My go-to Python snippets](https://dev.to/kdipippo/my-go-to-python-snippets-12pp)
 - `Mar 04 '24` [How to configure Makefile to dynamically generate list of commands](https://dev.to/kdipippo/how-to-configure-makefile-to-dynamically-generate-list-of-commands-37dc)
 <details>
 <summary>2021</summary>
