@@ -13,6 +13,7 @@
 
 
 ### 📚 Blog Posts
+- `Jun 24 '25` [How and Why to Use Patches](https://dev.to/kdipippo/how-and-why-to-use-patches-3enp)
 - `Jun 24 '25` [The Essential Software Development Process](https://dev.to/kdipippo/the-essential-software-development-process-4ohj)
 - `Apr 06 '25` [Strategies to reduce "visual" code complexity](https://dev.to/kdipippo/strategies-to-reduce-visual-code-complexity-5fa2)
 - `Apr 24 '24` [My go-to Python snippets](https://dev.to/kdipippo/my-go-to-python-snippets-12pp)
