@@ -1,18 +1,12 @@
-### 📈 Numbers
-
-| kdipippo's GitHub Stats | Most Used Languages |
-| --- | --- |
-| [![kdipippo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kdipippo&count_private=true&show_icons=true&hide_border=true&hide_rank=true&hide_title=true)](https://github.com/kdipippo/github-readme-stats) | [![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kdipippo&show_icons=true&hide_border=true&langs_count=5&layout=compact&hide_title=true)](https://github.com/kdipippo/github-readme-stats) |
-
-
 ### ⚡ Helpful Links
 
 [![Resume Badge](https://img.shields.io/badge/Resume-ed1c24?style=for-the-badge&link=https://resume.io/r/It5v1XzFU)](https://resume.io/r/It5v1XzFU)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kathryn-dipippo-530815101)](https://www.linkedin.com/in/kathryn-dipippo-530815101)
 [![Dev Profile Badge](https://img.shields.io/badge/Blog-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white&link=https://dev.to/kdipippo)](https://dev.to/kdipippo)
 
-
 ### 📚 Blog Posts
+
+- `July 5 '25` [Visualizing local git repository statuses with MermaidJS and a Python CLI](https://dev.to/kdipippo/visualizing-local-git-repository-statuses-with-mermaidjs-and-a-python-cli-4o91)
 - `Jun 24 '25` [How and Why to Use Patches](https://dev.to/kdipippo/how-and-why-to-use-patches-3enp)
 - `Jun 24 '25` [The Essential Software Development Process](https://dev.to/kdipippo/the-essential-software-development-process-4ohj)
 - `Apr 06 '25` [Strategies to reduce "visual" code complexity](https://dev.to/kdipippo/strategies-to-reduce-visual-code-complexity-5fa2)
