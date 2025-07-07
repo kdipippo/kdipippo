@@ -6,6 +6,7 @@
 
 ### 📚 Blog Posts
 
+- `July 7 '25` [The Essential Sprint Ceremonies](https://dev.to/kdipippo/the-essential-sprint-ceremonies-4co9)
 - `July 5 '25` [Visualizing local git repository statuses with MermaidJS and a Python CLI](https://dev.to/kdipippo/visualizing-local-git-repository-statuses-with-mermaidjs-and-a-python-cli-4o91)
 - `Jun 24 '25` [How and Why to Use Patches](https://dev.to/kdipippo/how-and-why-to-use-patches-3enp)
 - `Jun 24 '25` [The Essential Software Development Process](https://dev.to/kdipippo/the-essential-software-development-process-4ohj)
